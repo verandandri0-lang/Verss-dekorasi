@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://verandandrio-lang.github.io/Verss-dekorasi/sitemap.xml
+
+Sitemap: https://verandandri0-lang.github.io/Verss-dekorasi/sitemap.xml
